@@ -1,4 +1,4 @@
-"""Stepik 8.5 - Has the number been encounted before?
+"""Stepik_solutions 8.5 - Has the number been encounted before?
 
 Problem Statement:
     Given a string of numbers, output YES if a number has already appeared in the sequence, otherwise NO.

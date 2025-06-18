@@ -1,6 +1,6 @@
-"""Stepik 8.8 - Exam tasks
+"""Stepik_solutions 8.8 - Exam tasks
 
-The tasks are taken from the practical part of the exam on sets from the Stepik platform, Generation Python: Advanced course.
+The tasks are taken from the practical part of the exam on sets from the Stepik_solutions platform, Generation Python: Advanced course.
 Tasks have also been translated literally into English.
 
 """

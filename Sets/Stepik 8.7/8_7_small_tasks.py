@@ -1,4 +1,4 @@
-"""Stepik 8.7 - Small tasks - Python Set Methods
+"""Stepik_solutions 8.7 - Small tasks - Python Set Methods
 
 Here are the problem statements and solutions to small exercises from the "Generation Python" course.
 The problem statements have also been translated literally into English.

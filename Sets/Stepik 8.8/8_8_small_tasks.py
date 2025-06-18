@@ -1,4 +1,4 @@
-"""Stepik 8.8 - Small tasks - Set Comprehension
+"""Stepik_solutions 8.8 - Small tasks - Set Comprehension
 
 Here are the problem statements and solutions to small exercises from the "Generation Python" course.
 The problem statements have also been translated literally into English.
