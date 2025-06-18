@@ -11,11 +11,11 @@ correct = set()
 corr = 0
 for i in range(a):
     b = input()
-    if b[b.find(':')+2] == 'C':
-        correct.add(b[:b.find(':')])
-        corr+=1
+    if b[b.find(":") + 2] == "C":
+        correct.add(b[: b.find(":")])
+        corr += 1
 if correct == set():
-    print('You can be the first to solve this problem')
+    print("You can be the first to solve this problem")
 else:
-    print(f'{len(correct)} students answered correctly')
+    print(f"{len(correct)} students answered correctly")
     print(f"Out of all attempts{int(corr/a*100 + 0.5)}% are correct")

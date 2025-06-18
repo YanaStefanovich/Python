@@ -9,10 +9,8 @@ c = set()
 for el in a:
     b = int(el)
     if b in c:
-        print('YES')
+        print("YES")
         c.add(b)
     else:
-        print('NO')
+        print("NO")
         c.add(b)
-
-

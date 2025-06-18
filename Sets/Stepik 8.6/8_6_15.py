@@ -6,6 +6,6 @@ Problem Statement:
 """
 a = int(input())
 c = set(list(str(int(input()))))
-for i in range(a-1):
+for i in range(a - 1):
     c = c & set(list(str(int(input()))))
 print(*sorted(c))
