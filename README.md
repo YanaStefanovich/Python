@@ -48,18 +48,18 @@ Out of all attempts75% are correct
 ## 🛠 Tools used
 
 - `Python 3.10+`
-- `Git + GitHub` — version control and portfolio
-- `Trello`, `Notion` — planning and tracking
-- `Anki` — terminology & English practice
-- `StrataScratch` — extra SQL/data tasks
+- `Git + GitHub` - version control and portfolio
+- `Trello`, `Notion` - planning and tracking
+- `Anki` - terminology & English practice
+- `StrataScratch` - extra SQL/data tasks
 
 ---
 
 ## ✅ Progress
 
-- [x] Module 8-9 — Sets
-- [ ] Module 10 — Dictionaries
-- [ ] Module 11+ — coming soon
+- [x] Module 8-9 - Sets
+- [ ] Module 10 - Dictionaries
+- [ ] Module 11+ - coming soon
 
 ---
 
