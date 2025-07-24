@@ -51,7 +51,6 @@ Out of all attempts75% are correct
 - `Git + GitHub` - version control and portfolio
 - `Trello`, `Notion` - planning and tracking
 - `Anki` - terminology & English practice
-- `StrataScratch` - extra SQL/data tasks
 
 ---
 
