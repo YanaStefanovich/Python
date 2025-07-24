@@ -24,7 +24,4 @@ def task_2() :
         else:
             result[el] = dict1[el]
 
-# ──────────────────────────────────────────────────────────
-# 3. Merge dict1 and dict2 into result: if a key exists in both, sum the values; if only in one, keep its value. (shortened version of original task)
-def task_3() :
 
